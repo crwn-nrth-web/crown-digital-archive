@@ -2,36 +2,49 @@
 {"dg-publish":true,"permalink":"/welcome-to-crown-s-archive/","tags":["archived","gardenEntry"]}
 ---
 
-Hello! You can call me Crown. I’m a third-year Physics & Astronomy student at the University of Waterloo, with a minor in Philosophy. This site is my digital garden — though I like to think of it as my **digital archive**. It’s where I share notes, reflections, and half-formed ideas I’ve collected over the years. Nothing here is set in stone; these are working notes, open to revision and expansion.
+Hello! You can call me Crown. I’m a third-year Physics & Astronomy student with a minor in Philosophy at the University of Waterloo. This site is my digital garden — though I prefer to call it my **digital archive**. 
 
-I’ve been keeping a private Zettelkasten in Obsidian for over three years now, and it’s become something like a second brain. Recently, I’ve been wanting to share some of what I’ve collected — not as a polished blog, but in a more open-ended, exploratory way. That’s when I found digital gardens. Andy Matuschak calls it _“working with the back door open,”_ and to me it feels like a Zettelkasten made public. So bear with me as I start translating my private notes into this archive.
+This is where I'll share notes, reflections, and half-formed ideas I’ve collected for the past three years. Nothing here is set in stone; these are working notes, always open to revision and expansion.
 
-Like any archive, this space is organized into collections, such as:
+Inspired by the idea of digital gardens, this archive resists the polish of blogs and embraces the evolving, unfinished nature of thought. I’ve been keeping a private Zettelkasten in Obsidian since my first year, originally as a way to survive coursework. Over time, it grew into something bigger: a living collection of connections across physics, philosophy, history, and methods of learning. Now, I’m slowly translating that private vault into this public archive.
+
+Like any archive, this one has its own system:
+- *Pages* are ordinary notes on a topic, idea, or reflection.
+- *Catalogues* group together course-based notes into a structured index to reference.
+- *Marginalia* capture fragments and quotes, often where new ideas start.
+- *Cross-References* connect ideas across fields, weaving the threads together.
+
+Everything lives inside *collections* (aka tags) — Physics, Philosophy, Cosmology, History, Methods, and more. You can browse them like labeled boxes on a shelf, or just wander and click through links.
+
+This archive exists in the spirit of exploration and collaboration. Entries are continually being catalogued, revised, and cross-referenced. Consider this space an invitation to browse, linger, and even join me in the margins.
+
 
 - **Physics & Astronomy** — coursework notes, research curiosities
 - **Philosophy** — metaphysics, epistemology, philosophy of mind
 - **History & Classics** — Greek antiquity, thoughts on epic poems like Homer's
 
-This archive is about exploring ideas as they grow. New entries will be catalogued, and older ones might get revised, linked, or expanded. Think of it as browsing the stacks with me: you might find a half-finished note, a messy margin, or a fully developed thought.
-
 ## Navigation
-Start anywhere! Browse the tags, click links, or explore randomly. It's up to you. 
 
-Some tags to get you started:
-
+**Current Collections:**
+- #class = Most of my archive exists because of courses I’ve taken during my undergrad. Catalogues have this tag, and this is a good place to start if you want to trace my studies.
+- #philosophy = From metaphysics to philosophy of mind, these pages range from reading notes to half-baked arguments.
+- #physics = pages from lectures, textbooks, or just personal curiousity about the physical world
+- #cosmology = A subset of physics pages, but big enough to deserve its own tag. Here’s where I put thoughts on the large-scale structure of the universe, dark matter, and other cosmic puzzles.
+- #history/classics = pages on antiquity, especially Greek history and literature (Homer makes several appearences)
+- #workflow = pages dedicated to how I organize this archive, and commentaries on learning tools
 #### Recent additions
-| File                                                                                    | Last modified      | Tags                                                           |
-| --------------------------------------------------------------------------------------- | ------------------ | -------------------------------------------------------------- |
-| [[Welcome to Crown's Archive\|Welcome to Crown's Archive]]                           | 10.09.2025 - 18:36 | <ul><li>#archived</li></ul>                                    |
-| [[PHIL 251 - Metaphysics and Epistemelogy\|PHIL 251 - Metaphysics and Epistemelogy]] | 10.09.2025 - 18:35 | <ul><li>#class</li><li>#philosophy</li><li>#archived</li></ul> |
+| File                                                                                    | Last modified      | Tags                                                                                                                                           |
+| --------------------------------------------------------------------------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Welcome to Crown's Archive\|Welcome to Crown's Archive]]                           | 10.09.2025 - 20:27 | <ul><li>#class</li><li>#philosophy</li><li>#physics</li><li>#cosmology</li><li>#history/classics</li><li>#workflow</li><li>#archived</li></ul> |
+| [[PHIL 251 - Metaphysics and Epistemelogy\|PHIL 251 - Metaphysics and Epistemelogy]] | 10.09.2025 - 18:35 | <ul><li>#class</li><li>#philosophy</li><li>#archived</li></ul>                                                                                 |
 
 { .block-language-dataview}
 
 ## Curator's notes
-#### Inspiration
 
 This site is very much inspired by other incredible digital gardens. Feel free to check out:
 - 
+
 ## Disclaimer 
 This is very much a work in progress; in fact, no matter how much I add to this diital archive, it will never be complete. Most of these notes are collections of thoughts from what I've read, heard, and learnt throughout my undergrad. I am no way close to being an expert on anything I'm writing about it. I am simply a fledging academic that hopes to find a community. Thus, if you see any mistakes here, don't hesitate to point them out. Though, in all honesty, you will see typos and grammatial errors, and all I can say abot that is: whoops. 
 
