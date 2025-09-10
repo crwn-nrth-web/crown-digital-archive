@@ -22,13 +22,14 @@ Some tags to get you started:
 #### Recent additions
 | File                                                                                    | Last modified      | Tags                                                           |
 | --------------------------------------------------------------------------------------- | ------------------ | -------------------------------------------------------------- |
+| [[Welcome to Crown's Archive\|Welcome to Crown's Archive]]                           | 10.09.2025 - 18:36 | <ul><li>#archived</li></ul>                                    |
 | [[PHIL 251 - Metaphysics and Epistemelogy\|PHIL 251 - Metaphysics and Epistemelogy]] | 10.09.2025 - 18:35 | <ul><li>#class</li><li>#philosophy</li><li>#archived</li></ul> |
-| [[Welcome to Crown's Archive\|Welcome to Crown's Archive]]                           | 10.09.2025 - 18:03 | <ul><li>#archived</li><li>#gardenEntry</li></ul>               |
 
 { .block-language-dataview}
 
 ## Curator's notes
 #### Inspiration
+
 This site is very much inspired by other incredible digital gardens. Feel free to check out:
 - 
 ## Disclaimer 
