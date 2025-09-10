@@ -35,8 +35,8 @@ This archive exists in the spirit of exploration and collaboration. Entries are 
 #### Recent additions
 | File                                                                                    | Last modified      | Tags                                                                                                                                           |
 | --------------------------------------------------------------------------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[PHIL 251 - Metaphysics and Epistemelogy\|PHIL 251 - Metaphysics and Epistemelogy]] | 10.09.2025 - 23:45 | <ul><li>#class</li><li>#philosophy</li><li>#archived</li></ul>                                                                                 |
 | [[Welcome to Crown's Archive\|Welcome to Crown's Archive]]                           | 10.09.2025 - 20:27 | <ul><li>#class</li><li>#philosophy</li><li>#physics</li><li>#cosmology</li><li>#history/classics</li><li>#workflow</li><li>#archived</li></ul> |
-| [[PHIL 251 - Metaphysics and Epistemelogy\|PHIL 251 - Metaphysics and Epistemelogy]] | 10.09.2025 - 18:35 | <ul><li>#class</li><li>#philosophy</li><li>#archived</li></ul>                                                                                 |
 
 { .block-language-dataview}
 

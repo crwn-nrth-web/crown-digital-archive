@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/phil-251-metaphysics-and-epistemelogy/","tags":["class","philosophy"]}
+{"dg-publish":true,"permalink":"/phil-251-metaphysics-and-epistemelogy/","tags":["class","philosophy","archived"]}
 ---
 
 > Author:    - Fall 2025 UW
@@ -16,5 +16,5 @@
 1. [[Metaphysics-of-universals\|Metaphysics-of-universals]]
 	[[Knowledge-of-universals\|Knowledge-of-universals]]
 	[[analyzing-universals\|analyzing-universals]]
-2. [[Causes\|Causes]]
+2. [[Causality\|Causality]]
 3. 
