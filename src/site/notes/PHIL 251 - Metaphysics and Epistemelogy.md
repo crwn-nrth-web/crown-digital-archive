@@ -11,8 +11,6 @@
 
 **Epistemology** = branch of philosphy that deals with the nature of knowledge
 
-## Units
-
 1. [[Metaphysics-of-universals\|Metaphysics-of-universals]]
 	[[Knowledge-of-universals\|Knowledge-of-universals]]
 	[[analyzing-universals\|analyzing-universals]]

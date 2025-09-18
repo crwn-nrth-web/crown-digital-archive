@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome-to-crown-s-archive/","tags":["archived","gardenEntry"]}
+{"dg-publish":true,"permalink":"/welcome-to-crown-s-archive/","tags":["gardenEntry"]}
 ---
 
 Hello! You can call me Crown. I’m a third-year Physics & Astronomy student with a minor in Philosophy at the University of Waterloo. This site is my digital garden — though I prefer to call it my **digital archive**. 
@@ -33,10 +33,13 @@ This archive exists in the spirit of exploration and collaboration. Entries are 
 - #history/classics = pages on antiquity, especially Greek history and literature (Homer makes several appearences)
 - #workflow = pages dedicated to how I organize this archive, and commentaries on learning tools
 #### Recent additions
-| File                                                                                    | Last modified      | Tags                                                                                                                                           |
-| --------------------------------------------------------------------------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[PHIL 251 - Metaphysics and Epistemelogy\|PHIL 251 - Metaphysics and Epistemelogy]] | 10.09.2025 - 23:45 | <ul><li>#class</li><li>#philosophy</li><li>#archived</li></ul>                                                                                 |
-| [[Welcome to Crown's Archive\|Welcome to Crown's Archive]]                           | 10.09.2025 - 20:27 | <ul><li>#class</li><li>#philosophy</li><li>#physics</li><li>#cosmology</li><li>#history/classics</li><li>#workflow</li><li>#archived</li></ul> |
+| File                                                                                                                      | Last modified      | Tags                                                           |
+| ------------------------------------------------------------------------------------------------------------------------- | ------------------ | -------------------------------------------------------------- |
+| [[Sources/Casagranda-2023-How-Islam-saved-Western-civilization\|Casagranda-2023-How-Islam-saved-Western-civilization]] | 18.09.2025 - 21:53 | <ul><li>#archived</li></ul>                                    |
+| [[Knowledge-of-universals\|Knowledge-of-universals]]                                                                   | 18.09.2025 - 21:52 | <ul><li>#philosophy</li><li>#archived</li></ul>                |
+| [[analyzing-universals\|analyzing-universals]]                                                                         | 18.09.2025 - 21:52 | <ul><li>#philosophy</li><li>#archived</li></ul>                |
+| [[Metaphysics-of-universals\|Metaphysics-of-universals]]                                                               | 18.09.2025 - 21:52 | <ul><li>#philosophy</li><li>#archived</li></ul>                |
+| [[PHIL 251 - Metaphysics and Epistemelogy\|PHIL 251 - Metaphysics and Epistemelogy]]                                   | 17.09.2025 - 01:11 | <ul><li>#class</li><li>#philosophy</li><li>#archived</li></ul> |
 
 { .block-language-dataview}
 
