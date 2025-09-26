@@ -15,4 +15,4 @@
 	[[Knowledge-of-universals\|Knowledge-of-universals]]
 	[[analyzing-universals\|analyzing-universals]]
 2. [[Causality\|Causality]]
-3. 
+3. [[Determinism\|Determinism]]
