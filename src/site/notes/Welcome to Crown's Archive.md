@@ -34,12 +34,7 @@ This archive exists in the spirit of exploration and collaboration. Entries are 
 #### Disclaimer 
 This is very much a work in progress; in fact, no matter how much I add to this diital archive, it will never be complete. Most of these notes are collections of thoughts from what I've read, heard, and learnt throughout my undergrad. I am no way close to being an expert on anything I'm writing about it. I am simply a fledging academic that hopes to find a community. Thus, if you see any mistakes here, don't hesitate to point them out. Though, in all honesty, you will see typos and grammatial errors, and all I can say abot that is: whoops. 
 
- I want to share what I know, collaborate, and learn. However, don't take credit for what I have here, or distribute what I make without attribution. Therefore the following license applies to everything I write and all figures and drawings that I make myself or in collaboration with anyone else:
 
-[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)  
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-
-All figures and tables of contents that are from textbook sources belong to their original copyright holder.
 
 
 
