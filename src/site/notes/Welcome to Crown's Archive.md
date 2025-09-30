@@ -8,20 +8,7 @@ This is where I'll share notes, reflections, and half-formed ideas I’ve collec
 
 Inspired by the idea of digital gardens, this archive resists the polish of blogs and embraces the evolving, unfinished nature of thought. I’ve been keeping a private Zettelkasten in Obsidian since my first year, originally as a way to survive coursework. Over time, it grew into something bigger: a living collection of connections across physics, philosophy, history, and methods of learning. Now, I’m slowly translating that private vault into this public archive.
 
-Like any archive, this one has its own system:
-- *Pages* are ordinary notes on a topic, idea, or reflection.
-- *Catalogues* group together course-based notes into a structured index to reference.
-- *Marginalia* capture fragments and quotes, often where new ideas start.
-- *Cross-References* connect ideas across fields, weaving the threads together.
-
-Everything lives inside *collections* (aka tags) — Physics, Philosophy, Cosmology, History, Methods, and more. You can browse them like labeled boxes on a shelf, or just wander and click through links.
-
 This archive exists in the spirit of exploration and collaboration. Entries are continually being catalogued, revised, and cross-referenced. Consider this space an invitation to browse, linger, and even join me in the margins.
-
-
-- **Physics & Astronomy** — coursework notes, research curiosities
-- **Philosophy** — metaphysics, epistemology, philosophy of mind
-- **History & Classics** — Greek antiquity, thoughts on epic poems like Homer's
 
 ## Navigation
 
@@ -35,20 +22,16 @@ This archive exists in the spirit of exploration and collaboration. Entries are 
 #### Recent additions
 | File                                                                                                                      | Last modified      | Tags                                                           |
 | ------------------------------------------------------------------------------------------------------------------------- | ------------------ | -------------------------------------------------------------- |
+| [[PHIL 251 - Metaphysics and Epistemelogy\|PHIL 251 - Metaphysics and Epistemelogy]]                                   | 19.09.2025 - 18:15 | <ul><li>#class</li><li>#philosophy</li><li>#archived</li></ul> |
 | [[Sources/Casagranda-2023-How-Islam-saved-Western-civilization\|Casagranda-2023-How-Islam-saved-Western-civilization]] | 18.09.2025 - 21:53 | <ul><li>#archived</li></ul>                                    |
 | [[Knowledge-of-universals\|Knowledge-of-universals]]                                                                   | 18.09.2025 - 21:52 | <ul><li>#philosophy</li><li>#archived</li></ul>                |
 | [[analyzing-universals\|analyzing-universals]]                                                                         | 18.09.2025 - 21:52 | <ul><li>#philosophy</li><li>#archived</li></ul>                |
 | [[Metaphysics-of-universals\|Metaphysics-of-universals]]                                                               | 18.09.2025 - 21:52 | <ul><li>#philosophy</li><li>#archived</li></ul>                |
-| [[PHIL 251 - Metaphysics and Epistemelogy\|PHIL 251 - Metaphysics and Epistemelogy]]                                   | 17.09.2025 - 01:11 | <ul><li>#class</li><li>#philosophy</li><li>#archived</li></ul> |
 
 { .block-language-dataview}
 
-## Curator's notes
 
-This site is very much inspired by other incredible digital gardens. Feel free to check out:
-- 
-
-## Disclaimer 
+#### Disclaimer 
 This is very much a work in progress; in fact, no matter how much I add to this diital archive, it will never be complete. Most of these notes are collections of thoughts from what I've read, heard, and learnt throughout my undergrad. I am no way close to being an expert on anything I'm writing about it. I am simply a fledging academic that hopes to find a community. Thus, if you see any mistakes here, don't hesitate to point them out. Though, in all honesty, you will see typos and grammatial errors, and all I can say abot that is: whoops. 
 
  I want to share what I know, collaborate, and learn. However, don't take credit for what I have here, or distribute what I make without attribution. Therefore the following license applies to everything I write and all figures and drawings that I make myself or in collaboration with anyone else:
