@@ -9,12 +9,16 @@
 
 **Empiricism** = the view that all knowledge originates in experience (sensory experience + experience of our internal proccesses aka mental lives). All knowledge is a posteriori.
 
+For Hume, 
+- *idea* = concept
+- *impression* = sensory and/or innder experiences that gives rise to those ideas.
+
 ## Summary of Hume's work and Legacy
-According to Hume's [[#Two Defintions of causation]], cause and effect are objects or events that seem to go together, with regularity, in repeated instances of the world. Objectively speaking, causes and effects are constant conjunctions of objects or events. The second point is that causality involves necessary connections between conjoined objects or events.
+According to Hume's [[Humean-theory-of-causation#Two Defintions of causation\| two definitions of causation]], cause and effect are objects or events that seem to go together, with regularity, in repeated instances of the world. Objectively speaking, causes and effects are constant conjunctions of objects or events. The second point is that causality involves necessary connections between conjoined objects or events.
 
 Hume's work is one of the most influential work for the philosophy of [[Causality\|Causality]] developing Humean (or neo-Humean) theories. 
 
-The first point of *regularity* gives us the notion of **causal generaliztion** = broad, law-like statements that describe a regular connection between cause and effect. The second point of *neccessity* leads to the idea of [[#3. relation of neccessay connection|neccessary connection]] -- but for Hume, this is a projection of the mind, formed by habit, not something we percieve in this world. 
+The first point of *regularity* gives us the notion of **causal generaliztion** = broad, law-like statements that describe a regular connection between cause and effect. The second point of *neccessity* leads to the idea of [[Humean-theory-of-causation#3. relation of neccessay connection\|neccessary connection ]] -- but for Hume, this is a projection of the mind, formed by habit, not something we percieve in this world. 
 
 IN OTHER WORDS,
 *Humean theory of causation* (regularity + neccessity) gives a law-like picture of causation. 
@@ -33,7 +37,6 @@ According to Humean causation, singular causal claims presupposes:
 ## Main points from the reading
 Hume begins by telling us that the idea of causation cannot be found in any of a particular's qualities. According to Hume, causality isn't an intrinsic quality, but rather, it is a relation that holds among objects.
 
-For Hume, Every idea (concept) has as its basis some impression (sensory and/or innder experiences) that gives rise to those ideas.
 #### The three relations of causation
 Hume describes *causation* as several relations packed into one:
 ##### 1. relation of continguity 
@@ -51,7 +54,7 @@ This can be seen as controversial since for certain causal processes, this might
 
 > "For if one cause were co-temporary [that is, simultaneous] with its effect, and this effect with its effect, and so on, ‘tis plain that there wou’d be no such thing as succession, and all objects must be coexistent.”
 
-Hume asserts that without the relation of priority in time (if cause and effects were simultaneous), there would be no change. So, there can't be simultaneous causation; causes must precede effects.
+Hume asserts that without the relation of priority in time (if cause and effects were simultaneous), there would be no change. So, there can't be simultaneous causation; causes must precede effects. 
 
 When we visually see a causal interaction, we see the continguity and priority of the cause and effect via sensory experience.
 ##### 3. relation of neccessay connection
